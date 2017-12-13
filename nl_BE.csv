@@ -10,83 +10,93 @@ close,Sluiten,module,Magento_AdminNotification
 Notifications,Meldingen,module,Magento_AdminNotification
 "The message has been marked as Read.","Het bericht is gemarkeerd als gelezen.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Het bericht kan niet als gelezen gemarkeerd worden door een fout.",module,Magento_AdminNotification
-"Please select messages.","Selecteer de meldingen.",module,Magento_AdminNotification
+"Please select messages.","Gelieve de berichten te selecteren.",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","Er zijn in totaal %1 bericht(en) gemarkeerd als gelezen.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Er zijn in totaal %1 bericht(en) verwijderd.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","Het bericht kan niet verwijderd worden door een fout.",module,Magento_AdminNotification
-"The message has been removed.","De notificatie is verwijderd",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","We konden de berichten niet verwijderen door een fout.",module,Magento_AdminNotification
+"The message has been removed.","Het bericht is verwijderd.",module,Magento_AdminNotification
 "1 Hour","1 uur",module,Magento_AdminNotification
 "2 Hours","2 uur",module,Magento_AdminNotification
 "6 Hours","6 uur",module,Magento_AdminNotification
 "12 Hours","12 uur",module,Magento_AdminNotification
 "24 Hours","24 uur",module,Magento_AdminNotification
-critical,kritisch,module,Magento_AdminNotification
+critical,kritiek,module,Magento_AdminNotification
 major,belangrijk,module,Magento_AdminNotification
 minor,gering,module,Magento_AdminNotification
 notice,melding,module,Magento_AdminNotification
-"Wrong message type","Verkeerde bericht-type",module,Magento_AdminNotification
+"Wrong message type","Verkeerd berichttype",module,Magento_AdminNotification
 "Wrong notification ID specified.","Verkeerde melding ID opgegeven.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} wordt niet geadviseerd in een productie omgeving om de Onveilige Basis URL mee te definiëren. Het wordt aangeraden om deze waarde in uw Magento <a href=""%1"">configuratie</a> aan te passen.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is niet aangewezen in een productieomgeving om de onveilige/veilige basisURL mee te definiëren. We bevelen sterk aan om deze waarde in uw Magento <a href=""%1"">configuratie</a> aan te passen.",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Ga naar <a href=""%1"">Cache Beheer</a> om de cache types te verversen.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We waren niet in staat om een of meer mediabestanden te synchroniseren. Gelieve het logboekbestand bekijken voor meer informatie.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Synchronisatie van media opslagplaatsen is voltooid.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Uw webserver is niet goed geconfigureerd. Hierdoor kan ongeoorloofde toegang tot gevoelige bestanden plaats vinden. Neem contact op met uw serviceprovider.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Uw webserver is niet goed geconfigureerd waardoor ongeoorloofde toegang mogelijk is tot gevoelige bestanden. Gelieve contact op te nemen met uw serviceprovider.",module,Magento_AdminNotification
 "System Messages:",Systeemberichten:,module,Magento_AdminNotification
-"Critical System Messages","Kritische Systeemberichten",module,Magento_AdminNotification
+"Critical System Messages","Kritieke systeemberichten",module,Magento_AdminNotification
 "Major System Messages","Belangrijke Systeemberichten",module,Magento_AdminNotification
 "System messages",Systeemberichten,module,Magento_AdminNotification
 Close,Sluiten,module,Magento_AdminNotification
 "See All (","Alles bekijken (",module,Magento_AdminNotification
-"Please correct the data sent.","Corrigeer de gegevens die zijn verzonden.",module,Magento_AdvancedPricingImportExport
+"Please correct the data sent.","Corrigeer de verzonden gegevens.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Type entiteitsmodel '%1' is niet gevonden",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteitstype model moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
-"There are no product types available for export","Er zijn geen product-typen beschikbaar om te exporteren",module,Magento_AdvancedPricingImportExport
-"We can't find the role for the user you wanted.","Wij kunnen de rol niet vinden voor de gebruiker die u selecteerde.",module,Magento_Authorization
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Er ging iets mis tijdens het compileren van een lijst van toegestane resources. U vindt meer informatie in de exceptions log.",module,Magento_Authorization
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Type entiteitsmodel moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Er zijn geen producttypes beschikbaar om te exporteren",module,Magento_AdvancedPricingImportExport
+"We can't find the role for the user you wanted.","Wij kunnen de functie niet vinden voor de gebruiker die u selecteerde.",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Er ging iets mis tijdens het samenstellen van een lijst van toegestane bronnen. U vindt meer informatie in het logboek van de uitzonderingen.",module,Magento_Authorization
 "You created the order.","Bestelling is aangemaakt.",module,Magento_Authorizenet
-"Order saving error: %1","Fout tijdens opslaan van order: %1",module,Magento_Authorizenet
+"Order saving error: %1","Fout tijdens opslaan van een bestelling: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","We kunnen uw bestelling nu niet verwerken. Probeer het later nog eens.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer het opnieuw plaatsen van de bestelling.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Creditcard: xxxx-%1",module,Magento_Authorizenet
 "amount %1","bedrag %1",module,Magento_Authorizenet
 failed.,mislukt.,module,Magento_Authorizenet
-successful.,succesvol.,module,Magento_Authorizenet
+successful.,geslaagd.,module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transactie ID %1.",module,Magento_Authorizenet
-"Gateway error: %1","Portaal fout: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Er is een fout opgetreden in het betaal portaal.",module,Magento_Authorizenet
-"Invalid transaction ID.","Incorrect transactie ID.",module,Magento_Authorizenet
-"The transaction was declined because the response hash validation failed.","De transactie is afgekeurd omdat de antwoord hash validatie niet klopte.",module,Magento_Authorizenet
-"This payment didn't work out because we can't find this order.","De transactie is afgekeurd omdat de bestelling niet gevonden kan worden.",module,Magento_Authorizenet
-"There was a payment authorization error.","Er was een betalings-autorisatie fout.",module,Magento_Authorizenet
-"Please enter a transaction ID to authorize this payment.","Voer een transactie-ID voor het autoriseren van deze betaling.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Er ging iets mis: het betaalde bedrag komt niet overeen met het bedrag van de bestelling. Corrigeer dit en probeer het opnieuw.",module,Magento_Authorizenet
+authorize,goedkeuren,module,Magento_Authorizenet
+"authorize and capture","keur goed en bevestig",module,Magento_Authorizenet
+capture,bevestig,module,Magento_Authorizenet
+refund,terugbetaling,module,Magento_Authorizenet
+void,leeg,module,Magento_Authorizenet
+"Gateway error: %1","Portaalfout: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Er is een fout opgetreden in het betaalportaal.",module,Magento_Authorizenet
+"Invalid amount for capture.","Ongeldig bedrag om te bevestigen.",module,Magento_Authorizenet
+"Payment capturing error.","Fout bij het invoeren van een betaling.",module,Magento_Authorizenet
+"Invalid transaction ID.","Ongeldige transactie ID.",module,Magento_Authorizenet
+"Payment voiding error.","Fout bij het vervallen van de betaling.",module,Magento_Authorizenet
+"Invalid amount for refund.","Ongeldig bedrag voor terugbetaling.",module,Magento_Authorizenet
+"Payment refunding error.","Fout bij terugbetaling.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","De transactie is geweigerd omdat het hash validatie antwoord niet klopte.",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Deze betaling is afgekeurd omdat we deze bestelling niet kunnen vinden.",module,Magento_Authorizenet
+"There was a payment authorization error.","Er was een fout bij de goedkeuring van de betaling.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","Voer een transactie-ID in voor het goedkeuren van deze betaling.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Er ging iets mis: het betaalde bedrag komt niet overeen met het bedrag van de bestelling. Gelieve dit aan te passen en opnieuw te proberen.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transactie %1 is goedgekeurd. Bedrag %2. De status van de transactie is ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transactie %1 is ongeldig/geweigerd. De status van de transactie is ""%2"". Bedrag %3.",module,Magento_Authorizenet
-"Authorize Only","Alleen toestemming verlenen",module,Magento_Authorizenet
-"Authorize and Capture","Authoriseer en Capture",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Het is niet mogelijk om de transactie details op te halen. Probeer het later opnieuw.",module,Magento_Authorizenet
-"Electronic payments save the trees.","Electronische betalingen red de bomen.",module,Magento_Authorizenet
-"Credit Card Type",Creditcard-maatschappij,module,Magento_Authorizenet
+"Authorize Only","Alleen goedkeuring geven",module,Magento_Authorizenet
+"Authorize and Capture","Keur goed en bevestig",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","Het is niet mogelijk om transactiedetails op te halen. Probeer het later opnieuw.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Elektronische betalingen redden bomen.",module,Magento_Authorizenet
+"Credit Card Type","Soort Creditcard",module,Magento_Authorizenet
 "Please Select",Selecteer,module,Magento_Authorizenet
-"Credit Card Number",Creditcard-nummer,module,Magento_Authorizenet
+"Credit Card Number",Creditcardnummer,module,Magento_Authorizenet
 "Expiration Date",Vervaldatum,module,Magento_Authorizenet
 "Card Verification Number",Verificatienummer,module,Magento_Authorizenet
 "FDS Filter Action","FDS filteractie",module,Magento_Authorizenet
 "AVS Response","AVS Antwoord",module,Magento_Authorizenet
-"Card Code Response","Kaart Code Antwoord",module,Magento_Authorizenet
+"Card Code Response","Kaartcode antwoord",module,Magento_Authorizenet
 "CAVV Response","CAVV Antwoord",module,Magento_Authorizenet
-"Fraud Filters","Fraude Filters",module,Magento_Authorizenet
+"Fraud Filters",Fraudefilters,module,Magento_Authorizenet
 "Invalid Form Key. Please refresh the page.","Ongeldige formuliersleutel. Gelieve de pagina te vernieuwen.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","Er is een incorrecte Secret Key ingevoerd. Ververs de pagina.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Er is een foute Secret Key ingevoerd. Gelieve de pagina te vernieuwen.",module,Magento_Backend
 "Cache Storage Management","Beheer cachegeheugen",module,Magento_Backend
-"Flush Magento Cache","Leeg Magento Cache",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","De cache opslag kan extra informatie bevatten. Weet u zeker dat u dit wil legen?",module,Magento_Backend
-"Flush Cache Storage","Leeg Cachegeheugen",module,Magento_Backend
-Invalidated,Ongeldig,module,Magento_Backend
+"Flush Magento Cache","Maak de Magento Cache leeg",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","De cache opslag kan extra informatie bevatten. Weet u zeker dat u ze wil leegmaken?",module,Magento_Backend
+"Flush Cache Storage","Maak het cachegeheugen leeg",module,Magento_Backend
+Invalidated,"Ongeldig verklaard",module,Magento_Backend
 Orders,Bestellingen,module,Magento_Backend
 Amounts,Bedragen,module,Magento_Backend
-Bestsellers,"Meest verkochte producten",module,Magento_Backend
+Bestsellers,"Best verkochte producten",module,Magento_Backend
 "Most Viewed Products","Meest bekeken producten",module,Magento_Backend
 "New Customers","Nieuwe klanten",module,Magento_Backend
 Customers,Klanten,module,Magento_Backend
@@ -117,47 +127,47 @@ Shipping,Aflevering,module,Magento_Backend
 Email,E-mail,module,Magento_Backend
 "User Email","E-mail van gebruiker",module,Magento_Backend
 "New Password","Nieuw wachtwoord",module,Magento_Backend
-"Password Confirmation","Wachtwoord bevestiging",module,Magento_Backend
+"Password Confirmation",Wachtwoordbevestiging,module,Magento_Backend
 "Interface Locale","Lokale interface",module,Magento_Backend
-"Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_Backend
+"Current User Identity Verification","Identiteitscontrole van de huidige gebruiker",module,Magento_Backend
 "Your Password","Uw wachtwoord",module,Magento_Backend
 "Save Cache Settings","Cache-instellingen opslaan",module,Magento_Backend
 "Catalog Rewrites","Catalogus Rewrites",module,Magento_Backend
 Refresh,Vernieuwen,module,Magento_Backend
 "Images Cache",Afbeeldingen-cache,module,Magento_Backend
-Clear,Legen,module,Magento_Backend
+Clear,Leeg,module,Magento_Backend
 "Search Index",Zoekindex,module,Magento_Backend
 Rebuild,Herindexeren,module,Magento_Backend
-"Inventory Stock Status",Voorraad-status,module,Magento_Backend
-"Rebuild Catalog Index","Herbouw catalogus index",module,Magento_Backend
-"Rebuild Flat Catalog Category","Herbouw productcatalogus",module,Magento_Backend
-"Rebuild Flat Catalog Product","Herbouw productcatalogus",module,Magento_Backend
+"Inventory Stock Status",Voorraadstatus,module,Magento_Backend
+"Rebuild Catalog Index","Herstel de catalogusindex",module,Magento_Backend
+"Rebuild Flat Catalog Category","Herstel de productcategorieën van de catalogus",module,Magento_Backend
+"Rebuild Flat Catalog Product","Herstel de productcatalogus",module,Magento_Backend
 "Cache Control","Beheer cache",module,Magento_Backend
 "All Cache","Gehele cache",module,Magento_Backend
 "No change","Geen wijziging",module,Magento_Backend
 Disable,Uitschakelen,module,Magento_Backend
 Enable,Inschakelen,module,Magento_Backend
-"Add Design Change","Design-wijziging toevoegen",module,Magento_Backend
+"Add Design Change","Designwijziging toevoegen",module,Magento_Backend
 Back,Terug,module,Magento_Backend
 Delete,Verwijderen,module,Magento_Backend
 "Are you sure?","Weet u het zeker?",module,Magento_Backend
-Save,Opslaan,module,Magento_Backend
+Save,Bewaren,module,Magento_Backend
 "Edit Design Change","Ontwerpverandering bewerken",module,Magento_Backend
-"New Store Design Change","Nieuwe Winkel Ontwerp Wijziging",module,Magento_Backend
+"New Store Design Change","Ontwerpwijziging nieuwe winkel",module,Magento_Backend
 "General Settings","Algemene instellingen",module,Magento_Backend
 Store,Winkel,module,Magento_Backend
 "-- Please Select --","-- Selecteer --",module,Magento_Backend
 "Custom Design","Eigen ontwerp",module,Magento_Backend
 "Date From","Datum vanaf",module,Magento_Backend
 "Date To","Datum tot",module,Magento_Backend
-"Design Change",Ontwerpverandering,module,Magento_Backend
+"Design Change",Ontwerpwijziging,module,Magento_Backend
 General,Algemeen,module,Magento_Backend
 Cancel,Annuleer,module,Magento_Backend
 "Delete %1 '%2'","Verwijderen %1 '%2'",module,Magento_Backend
 "Delete %1","Verwijder %1",module,Magento_Backend
-"Block Information","Blok informatie",module,Magento_Backend
-"Backup Options",Backup-opties,module,Magento_Backend
-"Create DB Backup","DB-backup aanmaken",module,Magento_Backend
+"Block Information","Blokkeer informatie",module,Magento_Backend
+"Backup Options","Back-up opties",module,Magento_Backend
+"Create DB Backup","DB-back-up aanmaken",module,Magento_Backend
 Yes,Ja,module,Magento_Backend
 No,Nee,module,Magento_Backend
 "Delete Store","Winkel verwijderen",module,Magento_Backend
@@ -166,8 +176,8 @@ No,Nee,module,Magento_Backend
 "Save Store","Winkel opslaan",module,Magento_Backend
 "Save Store View","Winkelaanzicht opslaan",module,Magento_Backend
 "Delete Store View","Winkelaanzicht verwijderen",module,Magento_Backend
-"Edit Web Site","Bewerk Website",module,Magento_Backend
-"New Web Site","Nieuwe Website",module,Magento_Backend
+"Edit Web Site","Bewerk website",module,Magento_Backend
+"New Web Site","Nieuwe website",module,Magento_Backend
 "Edit Store","Winkel bewerken",module,Magento_Backend
 "New Store","Nieuwe winkel",module,Magento_Backend
 "Edit Store View","Winkelaanzicht bewerken",module,Magento_Backend
@@ -175,14 +185,14 @@ No,Nee,module,Magento_Backend
 "Store Information",Winkelinformatie,module,Magento_Backend
 "Web Site",Website,module,Magento_Backend
 Name,Naam,module,Magento_Backend
-"Root Category","Hoofd-categorie (root)",module,Magento_Backend
+"Root Category","Hoofdcategorie (root)",module,Magento_Backend
 "Default Store View","Standaard winkelaanzicht",module,Magento_Backend
 "Store View Information",Winkelaanzichtgegevens,module,Magento_Backend
 Disabled,Uitgeschakeld,module,Magento_Backend
 Enabled,Ingeschakeld,module,Magento_Backend
 "Sort Order",Sorteervolgorde,module,Magento_Backend
 "Web Site Information",Websitegegevens,module,Magento_Backend
-"Default Store","Standaard Winkel",module,Magento_Backend
+"Default Store",Standaardwinkel,module,Magento_Backend
 "Set as Default","Instellen als standaard",module,Magento_Backend
 Stores,Winkels,module,Magento_Backend
 "Create Website","Website aanmaken",module,Magento_Backend
@@ -190,7 +200,7 @@ Stores,Winkels,module,Magento_Backend
 "Create Store View","Winkelaanzicht aanmaken",module,Magento_Backend
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_Backend
 "Add New Image","Nieuwe afbeelding toevoegen",module,Magento_Backend
-"Export block for grid %1 is not defined","Export blok voor tabel %1 niet is gedefinieerd",module,Magento_Backend
+"Export block for grid %1 is not defined","Exportblok voor tabel %1 is niet gedefinieerd",module,Magento_Backend
 "Reset Filter","Reset filter",module,Magento_Backend
 Search,Zoek,module,Magento_Backend
 Any,Elke,module,Magento_Backend
@@ -202,23 +212,23 @@ To,Aan,module,Magento_Backend
 "Select All","Alles selecteren",module,Magento_Backend
 "We couldn't find any records.","Geen record(s) gevonden.",module,Magento_Backend
 "Add New","Voeg nieuwe toe",module,Magento_Backend
-"Invalid export type supplied for grid export block","Ongeldig export type opgegeven voor export rasterblok",module,Magento_Backend
+"Invalid export type supplied for grid export block","Ongeldig exporttype opgegeven voor tabel exportblok",module,Magento_Backend
 "Please correct the column format and try again.","Corrigeer de kolomindeling en probeer het opnieuw.",module,Magento_Backend
-"Please select items.","Selecteer artikelen.",module,Magento_Backend
+"Please select items.","Selecteer producten.",module,Magento_Backend
 Submit,Bevestig,module,Magento_Backend
-"Unknown block type","Onbekend bloktype",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empty","Corrigeer het tabblad configuratie en probeer het opnieuw. Tab ID mag niet leeg zijn",module,Magento_Backend
-"Please correct the tab configuration and try again.","Corrigeer de tab configuratie en probeer het opnieuw.",module,Magento_Backend
+"Unknown block type","Onbekende bloksoort",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Corrigeer de tabbladconfiguratie en probeer het opnieuw. Tab Id mag niet leeg zijn",module,Magento_Backend
+"Please correct the tab configuration and try again.","Corrigeer de tabconfiguratie en probeer het opnieuw.",module,Magento_Backend
 "You have logged out.","U bent afgemeld.",module,Magento_Backend
 "Specified cache type(s) don't exist: %1","De gespecificeerde cache type(s) bestaan niet: %1",module,Magento_Backend
-"The image cache was cleaned.","Het afbeelding-cachegeheugen werd opgeschoond.",module,Magento_Backend
+"The image cache was cleaned.","De afbeeldingscache werd leeggemaakt.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Er is een fout opgetreden bij het vernieuwen van de afbeeldingen cache.",module,Magento_Backend
-"The JavaScript/CSS cache has been cleaned.","Het JavaScript/CSS cachegeheugen werd opgeschoond.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","Het JavaScript/CSS cachegeheugen werd leeggemaakt.",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Er is een fout opgetreden bij het vernieuwen van de JavaScript / CSS cache.",module,Magento_Backend
-"The static files cache has been cleaned.","De statische bestanden cache is opgeschoond.",module,Magento_Backend
+"The static files cache has been cleaned.","De cache van de statische bestanden werd leeggemaakt.",module,Magento_Backend
 "You flushed the cache storage.","U heeft de cache-opslag geleegd.",module,Magento_Backend
 "The Magento cache storage has been flushed.","De Magento-cacheopslag is leeg gemaakt.",module,Magento_Backend
-"You can't change status of cache type(s) in production mode","Je kan de status van cache type(s) niet wijziging in productie modus",module,Magento_Backend
+"You can't change status of cache type(s) in production mode","Je kan de status van de cachesoort(en) niet wijzigen in de productiemodus",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 cache type(s) uitgeschakeld.",module,Magento_Backend
 "An error occurred while disabling cache.","Er is een fout opgetreden tijdens het uitschakelen van de cache.",module,Magento_Backend
 "%1 cache type(s) enabled.","%1 cache type(s) geactiveerd.",module,Magento_Backend
@@ -228,29 +238,29 @@ Submit,Bevestig,module,Magento_Backend
 "We updated lifetime statistic.","Alle statistieken zijn bijgewerkt.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Statistieken bijwerken niet gelukt.",module,Magento_Backend
 "invalid request","ongeldige aanvraag",module,Magento_Backend
-"see error log for details","bekijk het error logboek voor details",module,Magento_Backend
+"see error log for details","bekijk het foutenlogboek voor details",module,Magento_Backend
 "Service unavailable: %1","Service niet beschikbaar: %1",module,Magento_Backend
 Error,Foutmelding,module,Magento_Backend
 "Access Denied.","Toegang geweigerd.",module,Magento_Backend
 "You need more permissions to do this.","U heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
-"No search modules were registered","Er zijn geen zoekmodules geregistreerd.",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","Zorg er voor dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
+"No search modules were registered","Er werden geen zoekmodules geregistreerd",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Zorg ervoor dat alle globale adminzoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
 "You saved the account.","Het account werd opgeslagen.",module,Magento_Backend
 "An error occurred while saving account.","Er is een fout opgetreden bij het opslaan van dit account",module,Magento_Backend
-"You deleted the design change.","U heeft de design wijziging verwijderd.",module,Magento_Backend
+"You deleted the design change.","U heeft de ontwerpwijziging verwijderd.",module,Magento_Backend
 "You can't delete the design change.","U kunt de ontwerpwijziging niet verwijderen.",module,Magento_Backend
 "Store Design",Winkelontwerp,module,Magento_Backend
 "Edit Store Design Change","Bewerk winkelontwerpwijziging",module,Magento_Backend
 "You saved the design change.","U heeft de ontwerpwijziging opgeslagen.",module,Magento_Backend
 System,systeem,module,Magento_Backend
 "Manage Stores","Beheer Winkels",module,Magento_Backend
-"The database was backed up.","De database back-up werd gemaakt.",module,Magento_Backend
+"The database was backed up.","Er werd een back-up gemaakt van de database.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Wij kunnen de back-up nu niet maken. Probeer later opnieuw.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Door het verwijderen van een %1 leidt niet tot de verwijdering van de gegevens die eraan gekoppeld zijn (bijv. categorieën, producten, etc.), maar de verwijdering van %1 kan niet ongedaan gemaakt worden. Wij adviseren u een back-up te maken van uw database voordat u de verwijdering van %1 uitvoert.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Het verwijderen van een %1 leidt niet tot de verwijdering van de gegevens die eraan gekoppeld zijn (bijv. categorieën, producten, enz.), maar de verwijdering van %1 kan niet ongedaan gemaakt worden. Wij adviseren u een back-up te maken van uw database voordat u de %1 verwijdert.",module,Magento_Backend
 "Something went wrong. Please try again.","Er ging iets mis. Probeer opnieuw.",module,Magento_Backend
 "This store cannot be deleted.","Deze winkel kan niet worden verwijderd.",module,Magento_Backend
 "You deleted the store.","De winkel werd verwijderd.",module,Magento_Backend
-"Unable to delete the store. Please try again later.","Kan winkel niet verwijderen. Probeer later opnieuw.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Kan de winkel niet verwijderen. Probeer later opnieuw.",module,Magento_Backend
 "This store view cannot be deleted.","Het winkelaanzicht kan niet worden verwijderd.",module,Magento_Backend
 "Store View",Winkelaanzicht,module,Magento_Backend
 "You deleted the store view.","Het winkelaanzicht is verwijderd.",module,Magento_Backend
@@ -259,31 +269,32 @@ System,systeem,module,Magento_Backend
 "You deleted the website.","U heeft de website verwijderd.",module,Magento_Backend
 "Unable to delete the website. Please try again later.","Kan website niet verwijderen. Probeer later opnieuw.",module,Magento_Backend
 "The website does not exist.","De website bestaat niet.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Controleer voordat u de websitecode aanpast of het niet gebruikt wordt in index.php.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Gelieve vooraleer u de webitecode aanpast te controleren of ze niet gebruikt wordt in index.php.",module,Magento_Backend
 "The store does not exist","De winkel bestaat niet",module,Magento_Backend
 "Store view doesn't exist","Winkelzicht bestaat niet",module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Controleer voordat u de winkelaanzichtcode aanpast of deze niet gebruikt wordt in index.php.",module,Magento_Backend
 "All Stores","Alle winkels",module,Magento_Backend
 "You saved the website.","U heeft de website opgeslagen.",module,Magento_Backend
-"The default store cannot be disabled","De standaard winkel kan niet worden uitgeschakeld",module,Magento_Backend
+"The default store cannot be disabled","De standaardwinkel kan niet worden uitgeschakeld",module,Magento_Backend
 "You saved the store view.","Winkelaanzicht opgeslagen.",module,Magento_Backend
 "An inactive store view cannot be saved as default store view","Een inactief Winkelaanzicht kan niet worden opgeslagen als standaard Winkelaanzicht",module,Magento_Backend
-"You saved the store.","Winkel opgeslagen.",module,Magento_Backend
-"Something went wrong while saving. Please review the error log.","Er ging iets mis tijdens het opslaan. Raadpleeg het error log bestand.",module,Magento_Backend
+"You saved the store.","U heeft de winkel opgeslagen.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","Er ging iets mis tijdens het opslaan. Raadpleeg het foutenlogboek.",module,Magento_Backend
 "Last 24 Hours","Laatste 24 uur",module,Magento_Backend
 "Last 7 Days","Laatste 7 dagen",module,Magento_Backend
 "Current Month","Huidige maand",module,Magento_Backend
-"Authentication storage is incorrect.","Authenticatie opslag niet correct.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","Inloggegevens zijn onjuist of uw account is tijdelijk uitgeschakeld.",module,Magento_Backend
-"Authentication error occurred.","Authenticatie fout.",module,Magento_Backend
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin-sessielevensduur moet minder of gelijk aan 31536000 seconden (één jaar) zijn",module,Magento_Backend
-"Admin session lifetime must be greater than or equal to 60 seconds","Admin-sessielevensduur moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
+"Authentication storage is incorrect.","De bepaling van de voorraad is onjuist.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","U bent niet correct ingelogd of uw account is tijdelijk uitgeschakeld.",module,Magento_Backend
+"Authentication error occurred.","Er is een bevestigingsfout opgetreden.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","De levensduur van de adminsessie moet minder of gelijk aan 31536000 seconden (één jaar) zijn",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","De levensduur van de adminsessie moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
+"Order #%1","Bestelling #%1",module,Magento_Backend
 "Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en weer aan te melden.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Krijgt u herhaaldelijk deze melding, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
+"Please try to sign out and sign in again.","Probeer uit te loggen en u opnieuw aan te melden.",module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","Als u dit bericht blijft ontvangen, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
-"Welcome, please sign in",Inloggen,module,Magento_Backend
+"Welcome, please sign in","Welkom, meld u aan",module,Magento_Backend
 Username,Gebruikersnaam,module,Magento_Backend
 "user name",gebruikersnaam,module,Magento_Backend
 Password,Wachtwoord,module,Magento_Backend
@@ -292,7 +303,7 @@ password,wachtwoord,module,Magento_Backend
 "Select Range:","Selecteer bereik:",module,Magento_Backend
 "No Data Found","Geen gegevens gevonden",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafiek is uitgeschakeld. Om de grafiek in te schakelen, klikt u <a href=""%1"">hier</a>.",module,Magento_Backend
-"Last Orders","Laatste orders",module,Magento_Backend
+"Last Orders","Laatste bestellingen",module,Magento_Backend
 "Last Search Terms","Laatste zoektermen",module,Magento_Backend
 "Top Search Terms","Top zoektermen",module,Magento_Backend
 "There are no search keywords.","Er zijn geen zoekwoorden gevonden.",module,Magento_Backend
@@ -302,7 +313,7 @@ password,wachtwoord,module,Magento_Backend
 "Browse Files...","Blader door bestanden...",module,Magento_Backend
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Alle rechten voorbehouden.",module,Magento_Backend
 "Account Setting",Accountinstellingen,module,Magento_Backend
-"Customer View",Overzicht,module,Magento_Backend
+"Customer View",Klantenoverzicht,module,Magento_Backend
 "Sign Out",Uitloggen,module,Magento_Backend
 "About the calendar","Over de kalender",module,Magento_Backend
 Close,Sluiten,module,Magento_Backend
@@ -317,34 +328,34 @@ Minute,Minuut,module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Dit is een demo winkel. U kunt de winkel bekijken en bestellingen plaatsen, maar niets zal worden verwerkt of verstuurd.",module,Magento_Backend
 "Report an Issue","Meld een probleem",module,Magento_Backend
 "Store View:",Winkelaanzicht:,module,Magento_Backend
-"Stores Configuration","Winkels Configuratie",module,Magento_Backend
+"Stores Configuration",Winkelconfiguratie,module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Bevestig wijziging toepassing niveau. Alle gegevens die nog niet opgeslagen zijn, zullen verloren gaan.",module,Magento_Backend
-"Additional Cache Management","Additionele cacheopties",module,Magento_Backend
-"Flush Catalog Images Cache","Leeg Catalogus Afbeeldingen Cache",module,Magento_Backend
+"Additional Cache Management","Extra cacheopties",module,Magento_Backend
+"Flush Catalog Images Cache","Maak de cache van de afbeeldingencatalogus leeg",module,Magento_Backend
 "Pregenerated product images files","Voorgegenereerde productafbeeldingsbestanden",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Leeg JavaScript/CSS Cache",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file","De JavaScript- en CSS-bestanden van het thema zijn samengevoegd tot één bestand",module,Magento_Backend
-"Flush Static Files Cache","Leeg statische bestanden Cache",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Maak de JavaScript/CSS Cache leeg",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","De thema's van de JavaScript- en CSS-bestanden zijn samengevoegd tot één bestand",module,Magento_Backend
+"Flush Static Files Cache","Maak de cache van de statische bestanden leeg",module,Magento_Backend
 "Preprocessed view files and static files","Voorbewerkte weergavebestanden en statische bestanden",module,Magento_Backend
 Catalog,Catalogus,module,Magento_Backend
 "No records found.","Geen records gevonden.",module,Magento_Backend
 Images,Afbeeldingen,module,Magento_Backend
 "Big Image","Grote afbeelding",module,Magento_Backend
-"Additional Settings","Aanvullende instellingen",module,Magento_Backend
+"Additional Settings","Extra instellingen",module,Magento_Backend
 "records found","records gevonden",module,Magento_Backend
 selected,geselecteerd,module,Magento_Backend
 "per page","per pagina",module,Magento_Backend
 "Previous page","Vorige pagina",module,Magento_Backend
 "of %1","van %1",module,Magento_Backend
-"Next page","Volgende pagina's",module,Magento_Backend
+"Next page","Volgende pagina",module,Magento_Backend
 "Export to:","Exporteer naar:",module,Magento_Backend
 Actions,acties,module,Magento_Backend
-"Mass Actions","Bulk acties",module,Magento_Backend
-"Unselect All","Deselecteer alles",module,Magento_Backend
+"Mass Actions",Bulkacties,module,Magento_Backend
+"Unselect All","Selectie ongedaan maken",module,Magento_Backend
 "Select Visible","Selecteer zichtbare",module,Magento_Backend
-"Unselect Visible","Deselecteer zichtbare",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Wijzigingen, die in deze sectie zijn gemaakt, zijn nog niet opgeslagen.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","Dit tabblad bevat ongeldige gegevens; deze moeten voor het opslaan gecorrigeerd worden.",module,Magento_Backend
+"Unselect Visible","Selectie zichtbare ongedaan maken",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","Er zijn wijzigingen in deze sectie gemaakt die niet werden opgeslagen.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Dit tabblad bevat ongeldige gegevens. Gelieve deze aan te passen en dan opnieuw op te slaan.",module,Magento_Backend
 "The information in this tab has been changed.","De informatie in dit tabblad is gewijzigd",module,Magento_Backend
 Loading...,"Bezig met laden...",module,Magento_Backend
 "System Backup",Systeem-backup,module,Magento_Backup
@@ -3491,6 +3502,7 @@ Subtotal,Subtotaal,module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","De klant kan niet toegewezen worden aan deze winkelwagen. De winkelwagen is niet anoniem.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","De klant kan niet toegewezen worden aan deze winkelwagen. De klant heeft al een actieve winkelwagen.",module,Magento_Quote
 "An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen.",module,Magento_Quote
+"Invalid state change requested","Ongeldige statuswijziging gevraagd",module,Magento_Quote
 "Only 1 shipping assignment can be set","Slechts 1 verzending toewijzing kan worden ingesteld",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Deze productprijs of aantal is niet geldig voor afhandeling.",module,Magento_Quote
 "Please check the shipping address information. %1","Gelieve de verzendgegevens van dit adres te controleren. %1",module,Magento_Quote
@@ -5390,6 +5402,7 @@ Resources,Bronnen,module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruikers van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
 "First-Class Mail Large Envelope","First-Class Mail grote envelop",module,Magento_Usps
 "First-Class Mail Letter","First-Class Mail brief",module,Magento_Usps
+"First-Class Package Service - Retail","First-Class Mail - Winkel",module,Magento_Usps
 "Priority Mail","Priority Post",module,Magento_Usps
 "Priority Mail Express Hold For Pickup","Vast tarief Priority Mail Express Vasthouden voor afhalen",module,Magento_Usps
 "Retail Ground",Winkelgrond,module,Magento_Usps
@@ -5898,9 +5911,11 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","U vind uw verzendbevestiging hieronder.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Uw verzending #%shipment_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update van uw %store_name verzending",theme,frontend/Magento/luma
-"Sorry, but something went wrong. Please contact the seller.","Er ging iets mis. Neem contact op met de verkoper.",module,Magento_Authorizenet
-"We could not detect a size.","We kunnen geen grootte detecteren.",module,Magento_Backend
+"Sorry, but something went wrong. Please contact the seller.","Sorry, er ging iets mis. Gelieve contact op te nemen met de verkoper.",module,Magento_Authorizenet
+"We could not detect a size.","We konden geen maat vaststellen.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Backend
+"Warning message",Waarschuwingsbericht,module,Magento_Backend
+"This operation can take a long time","Deze bewerking kan lang duren",module,Magento_Backend
 "This payment is not available","Deze betaling is niet beschikbaar",module,Magento_Braintree
 YY,JJ,module,Magento_Braintree
 "Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling.",module,Magento_Braintree
@@ -6097,7 +6112,7 @@ Cancel,Annuleer,module,Magento_Vault
 "Show Toolbar","Werkbalk weergeven",module,Magento_AdminNotification
 "Show List","Toon lijst",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Gebruik HTTPS om de feed op te halen",module,Magento_AdminNotification
-"Update Frequency",Update-frequentie,module,Magento_AdminNotification
+"Update Frequency","Update de frequentie",module,Magento_AdminNotification
 "Last Update","Laatste wijziging",module,Magento_AdminNotification
 Severity,Ernst,module,Magento_AdminNotification
 "Date Added","Datum toegevoegd",module,Magento_AdminNotification
@@ -6125,46 +6140,47 @@ Title,Titel,module,Magento_Authorizenet
 "Sort Order",Sorteervolgorde,module,Magento_Authorizenet
 "Allow everything","Alles toestaan",module,Magento_Backend
 "Magento Admin","Magento Site-beheer",module,Magento_Backend
-"Global Search","Globale zoektocht",module,Magento_Backend
+"Global Search","Algemeen zoeken",module,Magento_Backend
 "SEO & Search","SEO & zoeken",module,Magento_Backend
-"User Content",Gebruikers-content,module,Magento_Backend
+"User Content",Gebruikerscontent,module,Magento_Backend
 Content,inhoud,module,Magento_Backend
 Elements,Elementen,module,Magento_Backend
 Design,Ontwerp,module,Magento_Backend
 Schedule,Tijdsplanning,module,Magento_Backend
+"Content translation","Vertaling van de inhoud",module,Magento_Backend
 Settings,Instellingen,module,Magento_Backend
 Attributes,Attributen,module,Magento_Backend
 "Other Settings","Andere instellingen",module,Magento_Backend
 "Data Transfer",Gegevensoverdracht,module,Magento_Backend
-"Connect Manager","Verbinding van de Manager",module,Magento_Backend
-"Package Extensions","Pakket uitbreiding",module,Magento_Backend
-Tools,Gereedschap,module,Magento_Backend
-"Web Setup Wizard","Web Installatie Assistent",module,Magento_Backend
+"Connect Manager","Verbinding met de Manager",module,Magento_Backend
+"Package Extensions",Pakketuitbreiding,module,Magento_Backend
+"Web Setup Wizard","Webinstallatie assistent",module,Magento_Backend
 Currency,Valuta,module,Magento_Backend
 Communications,Communicatie,module,Magento_Backend
+Services,Diensten,module,Magento_Backend
 Advanced,Geavanceerd,module,Magento_Backend
 "Disable Modules Output","Schakel uitvoer van modules uit",module,Magento_Backend
-"Store Email Addresses","E-mailadressen van winkel",module,Magento_Backend
-"Custom Email 1","Eigen e-mail 1",module,Magento_Backend
-"Sender Email","Afzender E-mail",module,Magento_Backend
+"Store Email Addresses","Bewaar e-mailadressen",module,Magento_Backend
+"Custom Email 1","Aangepaste e-mail 1",module,Magento_Backend
+"Sender Email","E-mailadres van afzender",module,Magento_Backend
 "Sender Name","Naam Afzender",module,Magento_Backend
-"Custom Email 2","Eigen e-mail 2",module,Magento_Backend
+"Custom Email 2","Aangepaste e-mail 2",module,Magento_Backend
 "General Contact","Algemeen contact",module,Magento_Backend
 "Sales Representative",Vertegenwoordiger,module,Magento_Backend
 "Customer Support",Klantenservice,module,Magento_Backend
 Developer,Ontwikkelaar,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Hints ingeschakeld voor sjabloon paden op winkelaanzicht",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Template pad Hints ingeschakeld voor Admin",module,Magento_Backend
-"Add Block Names to Hints","Bloknamen aan Hints toevoegen",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Template padhints ingeschakeld voor Admin",module,Magento_Backend
+"Add Block Names to Hints","Voeg bloknamen aan hints toe",module,Magento_Backend
 "Template Settings","Template instellingen",module,Magento_Backend
 "Allow Symlinks","Symlinks toestaan",module,Magento_Backend
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Waarschuwing! Het activeren van deze functionaliteit wordt niet aanbevolen in productieomgevingen, vormt mogelijk een beveiligsingsrisico.",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Waarschuwing! Het activeren van deze functionaliteit is niet aanbevolen in productieomgevingen omdat het een mogelijk beveiligsingsrisico inhoudt.",module,Magento_Backend
 "Minify Html","Minify HTML",module,Magento_Backend
 "Minification is not applied in developer mode.","Minification wordt niet toegepast in de ontwikkelaarsmodus.",module,Magento_Backend
 "Translate Inline","Inline vertaling",module,Magento_Backend
-"Enabled for Storefront","Ingeschakeld voor Storefront",module,Magento_Backend
-"Enabled for Admin","Ingeschakeld voor backend",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Vertalings-, blok- en andere uitvoer caches moeten uitgeschakeld worden voor zowel winkelaanzicht als admin inline vertalingen.",module,Magento_Backend
+"Enabled for Storefront","Ingeschakeld voor winkelaanzicht",module,Magento_Backend
+"Enabled for Admin","Ingeschakeld voor de administrator",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Vertalingen, blokken en andere uitvoercaches moeten uitgeschakeld worden voor zowel het winkelaanzicht als admin inline vertalingen.",module,Magento_Backend
 "JavaScript Settings","JavaScript instellingen",module,Magento_Backend
 "Merge JavaScript Files","JavaScript-bestanden samenvoegen",module,Magento_Backend
 "Enable JavaScript Bundling","Inschakelen Javascript bundeling",module,Magento_Backend
@@ -6172,18 +6188,18 @@ Developer,Ontwikkelaar,module,Magento_Backend
 "CSS Settings","CSS instellingen",module,Magento_Backend
 "Merge CSS Files","CSS bestanden samenvoegen",module,Magento_Backend
 "Minify CSS Files","Minify CSS-bestanden",module,Magento_Backend
-"Image Processing Settings","Afbeelding verwerking opties",module,Magento_Backend
+"Image Processing Settings","Instellingen verwerken afbeeldingen",module,Magento_Backend
 "Image Adapter","Afbeelding Adapter",module,Magento_Backend
 "Static Files Settings","Instellingen voor statische bestanden",module,Magento_Backend
 "Sign Static Files","Statische bestanden ondertekenen",module,Magento_Backend
-"Country Options","Land opties",module,Magento_Backend
-"Allow Countries","Toegestane landen",module,Magento_Backend
-"Default Country","Standaard land",module,Magento_Backend
-"European Union Countries","Landen uit Europese Unie",module,Magento_Backend
-"Top destinations","Top bestemmingen",module,Magento_Backend
-"Locale Options",Lokalisatie-opties,module,Magento_Backend
+"Country Options",Landopties,module,Magento_Backend
+"Allow Countries","Sta landen toe",module,Magento_Backend
+"Default Country",Standaardland,module,Magento_Backend
+"European Union Countries","Landen in de Europese Unie",module,Magento_Backend
+"Top destinations",Topbestemmingen,module,Magento_Backend
+"Locale Options","Lokale opties",module,Magento_Backend
 Timezone,Tijdzone,module,Magento_Backend
-Locale,Taal,module,Magento_Backend
+Locale,Lokaal,module,Magento_Backend
 "First Day of Week","Eerste dag van de week",module,Magento_Backend
 "Weekend Days",Weekenddagen,module,Magento_Backend
 "Store Name",Winkelnaam,module,Magento_Backend
@@ -6200,53 +6216,54 @@ City,Plaats,module,Magento_Backend
 "Enable Single-Store Mode","Eén-winkel-modus inschakelen",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Deze instelling wordt niet gebruikt indien een systeem meer dan één winkelaanzicht heeft.",module,Magento_Backend
 "Mail Sending Settings",Mailinstellingen,module,Magento_Backend
-"Disable Email Communications","Schakel e-mail communicatie uit",module,Magento_Backend
+"Disable Email Communications","Schakel e-mailcommunicatie uit",module,Magento_Backend
 Host,Hostnaam,module,Magento_Backend
 "Port (25)","Poort (25)",module,Magento_Backend
 "Set Return-Path","Ontvangstadres voor e-mails instellen.",module,Magento_Backend
 "Return-Path Email","Ontvangstadres voor e-mails.",module,Magento_Backend
 Admin,Beheerder,module,Magento_Backend
-"Admin User Emails","Admin gebruikers e-mails",module,Magento_Backend
+"Admin User Emails","Admin gebruikerse-mails",module,Magento_Backend
 "Forgot Password Email Template","Wachtwoord e-mailsjabloon vergeten",module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Backend
-"Forgot and Reset Email Sender","Afzender Vergeten en Reset E-mail",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","E-mailsjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Backend
+"Forgot and Reset Email Sender","Vergeet en reset e-mail afzender",module,Magento_Backend
 "Startup Page",Startpagina,module,Magento_Backend
 "Admin Base URL","Admin basis-URL",module,Magento_Backend
 "Use Custom Admin URL","Gebruik aangepaste admin-URL",module,Magento_Backend
 "Custom Admin URL","Aangepaste admin-URL",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Let erop dat de URL eindigt met een '/' (slash). Het aanpassen van dit is niet zonder risico's.",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Let erop dat de URL eindigt met een '/' (slash). Het aanpassen hiervan is niet zonder risico's",module,Magento_Backend
 "Use Custom Admin Path","Gebruik aangepast admin-pad (URI)",module,Magento_Backend
-"Custom Admin Path","Custom Admin-pad",module,Magento_Backend
+"Custom Admin Path","Aangepast Admin-pad",module,Magento_Backend
 "You will have to sign in after you save your custom admin path.","U moet opnieuw moeten inloggen als u het custom admin-pad aanpast.",module,Magento_Backend
 Security,Beveiliging,module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Herstel Link verloopperiode (uur)",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Vul een nummer van 1 of groter in in dit veld.",module,Magento_Backend
-"Add Secret Key to URLs","Voeg geheime sleutel toe aan URLs",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Herstel geldigheidsduur link (uren)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","Voer in dit veld een getal gelijk aan of groter dan 1 in.",module,Magento_Backend
+"Add Secret Key to URLs","Voeg geheime sleutel toe aan URL's",module,Magento_Backend
 "Login is Case Sensitive","Wachtwoord is hoofdlettergevoelig",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Levensduur admin sessie (in seconden)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Voer ten minste 60 en als grootste 31536000 (één jaar) in.",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Levensduur adminsessie (in seconden)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Voer ten minste 60 en maximum 31536000 (één jaar) in.",module,Magento_Backend
 "Enable Charts","Activeer grafieken",module,Magento_Backend
 "Url Options",URL-opties,module,Magento_Backend
 "Add Store Code to Urls","Winkelcode aan URL's toevoegen",module,Magento_Backend
 "Auto-redirect to Base URL","Auto-doorverwijzing naar de Basis URL",module,Magento_Backend
 "Search Engine Optimization","Zoekmachine-optimalisatie (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Gebruik webserver-rewrites",module,Magento_Backend
-"Base URL","Basis URL",module,Magento_Backend
-"Specify URL or {{base_url}} placeholder.","Geef URL of {{base_url}} verwijzing op.",module,Magento_Backend
-"Base Link URL","Basis link-URL",module,Magento_Backend
-"Base URL for Static View Files","Basis-URL voor statische bestanden",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","Kan leeg zij of starten met {{unsecure_base_url}} aanduiding.",module,Magento_Backend
-"Base URL for User Media Files","Basis url voor media bestanden gebruiker",module,Magento_Backend
+"Base URLs",Basisurl's,module,Magento_Backend
+"Base URL",Basisurl,module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Geef URL of {{base_url}} plaatsaanduiding op.",module,Magento_Backend
+"Base Link URL",Basislink-URL,module,Magento_Backend
+"Base URL for Static View Files","Basis url voor statische bestanden",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Kan leeg zijn of starten met {{unsecure_base_url}} plaatsaanduiding.",module,Magento_Backend
+"Base URL for User Media Files","Basis url voor mediabestanden gebruiker",module,Magento_Backend
 "Base URLs (Secure)","Base URL's (veilig)",module,Magento_Backend
 "Secure Base URL","Beveiligde Basis Url",module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Geef URL of {{base_url}} of {{unsecure_base_url}} verwijzing op.",module,Magento_Backend
-"Secure Base Link URL","Veilige basis Link URL",module,Magento_Backend
-"Secure Base URL for Static View Files","Veilige basis-URL voor statische bestanden",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Geef URL of {{base_url}} of {{unsecure_base_url}} plaatsaanduiding.",module,Magento_Backend
+"Secure Base Link URL","Veilige basislink URL",module,Magento_Backend
+"Secure Base URL for Static View Files","Veilige basisURL voor statische bestanden",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Mag leeg zijn of starten met {{secure_base_url}}, of {{unsecure_base_url}} aanduiding.",module,Magento_Backend
-"Secure Base URL for User Media Files","Velige basis url voor media bestanden van gebruiker",module,Magento_Backend
+"Secure Base URL for User Media Files","Velige basisurl voor mediabestanden van de gebruiker",module,Magento_Backend
 "Use Secure URLs on Storefront","Gebruik beveiligde urls in winkelaanzicht",module,Magento_Backend
-"Use Secure URLs in Admin","Gebruik veilige URL’s in admin",module,Magento_Backend
-"Enable HTTP Strict Transport Security (HSTS)","Inschakelen van HTTP strikte Transport Security (HSTS)",module,Magento_Backend
+"Use Secure URLs in Admin","Gebruik beveiligde url's in admin",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Schakel HTTP strikte Transport Security (HSTS) in",module,Magento_Backend
 "Upgrade Insecure Requests","Werk onveilige verzoeken bij",module,Magento_Backend
 "Default Pages",Standaardpagina's,module,Magento_Backend
 "Default Web URL",Standaard-web-URL,module,Magento_Backend
@@ -6256,26 +6273,26 @@ Security,Beveiliging,module,Magento_Backend
 "Validate HTTP_VIA","HTTP_VIA valideren",module,Magento_Backend
 "Validate HTTP_X_FORWARDED_FOR","HTTP_X_FORWARDED_FOR valideren",module,Magento_Backend
 "Validate HTTP_USER_AGENT","HTTP_USER_AGENT valideren",module,Magento_Backend
-"Use SID on Storefront","Gebruik SID op Storefront",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Stelt bezoekers instaat om ingelogd te blijven, zelfs bij het switchen van winkels.",module,Magento_Backend
-"Cache Type","Cache Soort",module,Magento_Backend
+"Use SID on Storefront","Gebruik SID op winkelaanzicht",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Stelt bezoekers in staat om ingelogd te blijven als ze wisselen tussen verschillende winkels.",module,Magento_Backend
+"Cache Type","Soort cache",module,Magento_Backend
 Description,Beschrijving,module,Magento_Backend
 Tags,tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Pagina niet gevonden.</p>",module,Magento_Backend
 "Default Theme","Standaard thema",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Als geen waarde is opgegeven, wordt de systeemstandaard is gebruikt. De systeemstandaard kan worden gewijzigd door extensies van derden.",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Als geen waarde is opgegeven, wordt het standaardsysteem gebruikt. Het standaardsysteem kan worden gewijzigd door extensies van derden.",module,Magento_Backend
 "Applied Theme","Toegepast thema",module,Magento_Backend
-"Design Rule","Ontwerp regel",module,Magento_Backend
-"User Agent Rules","Gebruikersagent regels",module,Magento_Backend
+"Design Rule",Ontwerpregel,module,Magento_Backend
+"User Agent Rules","Regels voor de gebruikersverantwoordelijke",module,Magento_Backend
 Pagination,Paginering,module,Magento_Backend
 "How many links to display at once.","Geef aan hoeveel links tegelijkertijd getoond mogen worden.",module,Magento_Backend
 "Pagination Frame","Paginering frame",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Als de huidige positie van het frame niet de uiterste pagina's bevat, zal de render verwijzen naar de huidige positie plus/min deze waarde.",module,Magento_Backend
-"Pagination Frame Skip","Paginering frame aantal overslaan",module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternatieve tekst voor vorige link in pagineringsmenu. Wanneer u deze leeg laat, wordt de standaard pijl getoond.",module,Magento_Backend
-"Anchor Text for Previous","Tekst voor 'Vorige'",module,Magento_Backend
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternatieve tekst voor volgende link in pagineringsmenu. Wanneer u deze leeg laat, wordt de standaard pijl getoond.",module,Magento_Backend
-"Anchor Text for Next","Tekst voor 'Volgende'",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Als de huidige positie van het frame niet de uiterste pagina's bevat, zal het de link weergeven naar de huidige positie plus/min deze waarde.",module,Magento_Backend
+"Pagination Frame Skip","Sla het pagineringsframe over",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternatieve tekst voor de link voor de vorige pagina's in het pagineringsmenu. Wanneer u deze leeg laat, wordt de standaardpijl getoond.",module,Magento_Backend
+"Anchor Text for Previous","Ankertekst voor 'Vorige'",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternatieve tekst voor de link voor de volgende pagina's in het pagineringsmenu. Wanneer u deze leeg laat, wordt de standaardpijl getoond.",module,Magento_Backend
+"Anchor Text for Next","Ankertekst voor 'Volgende'",module,Magento_Backend
 "Theme Name",Themanaam,module,Magento_Backend
 Rollback,Terugdraaien,module,Magento_Backup
 "Scheduled Backup Settings","Geplande backup instellingen",module,Magento_Backup
@@ -6340,6 +6357,7 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
+"Special Price","Speciale prijs",module,Magento_Bundle
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
 Forms,Formulieren,module,Magento_Captcha
