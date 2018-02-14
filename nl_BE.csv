@@ -290,9 +290,6 @@ System,systeem,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","De levensduur van de adminsessie moet groter of gelijk aan 60 seconden zijn",module,Magento_Backend
 Order,Bestelling,module,Magento_Backend
 "Order #%1","Bestelling #%1",module,Magento_Backend
-"Access denied","Toegang geweigerd",module,Magento_Backend
-"Please try to sign out and sign in again.","Probeer uit te loggen en u opnieuw aan te melden.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Als u dit bericht blijft ontvangen, neem dan contact op met de winkeleigenaar.",module,Magento_Backend
 "You need more permissions to access this.","U heeft meer bevoegdheden nodig om toegang te krijgen.",module,Magento_Backend
 "Welcome, please sign in","Welkom, meld u aan",module,Magento_Backend
 Username,Gebruikersnaam,module,Magento_Backend
@@ -1383,7 +1380,6 @@ Checkout,Afrekenen,module,Magento_Checkout
 Error!,Fout!,module,Magento_Checkout
 "DB exception","DB uitzondering",module,Magento_Checkout
 Message,Bericht,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Bon afdrukken</a>",module,Magento_Checkout
 "Apply Discount Code","Pas kortingscode toe",module,Magento_Checkout
 "Enter discount code","Voer kortingscode in",module,Magento_Checkout
 "Apply Discount","Korting doorvoeren",module,Magento_Checkout
@@ -1704,10 +1700,10 @@ Cancel,Annuleer,module,Magento_ConfigurableProduct
 "Regular Price","Normale prijs",module,Magento_ConfigurableProduct
 "Page not found.","Pagina niet gevonden.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Bedankt dat u contact met ons opnam. U kunt spoedig op ons antwoord rekenen.",module,Magento_Contact
-"An error occurred while processing your form. Please try again later.","Er ging iets mis tijdens het verwerken van uw formulier. Probeer het later nog eens.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","Er is een fout opgetreden tijdens het verwerken van uw formulier. Probeer het later opnieuw.",module,Magento_Contact
 "Name is missing","Naam ontbreekt",module,Magento_Contact
 "Comment is missing","Opmerking ontbreekt",module,Magento_Contact
-"Invalid email address","Ongeldig e-mailadres",module,Magento_Contact
+"Invalid email address","Ongeldig emailadres",module,Magento_Contact
 "* Required Fields","* Verplichte velden",module,Magento_Contact
 "Write Us","Neem contact met ons op",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Laat een vraag of opmerking achter en wij zullen hier zo spoedig mogelijk op terugkomen.",module,Magento_Contact
@@ -1769,7 +1765,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Sign Out",Afmelden,module,Magento_Customer
 "Sign In",Inloggen,module,Magento_Customer
 "You are subscribed to our newsletter.","Je bent geabonneerd op onze nieuwsbrief.",module,Magento_Customer
-"You aren't subscribed to our newsletter.","Je ben niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Je bent niet geabonneerd op onze nieuwsbrief.",module,Magento_Customer
 "You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
@@ -5914,8 +5910,6 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Sorry, but something went wrong. Please contact the seller.","Sorry, er ging iets mis. Gelieve contact op te nemen met de verkoper.",module,Magento_Authorizenet
 "We could not detect a size.","We konden geen maat vaststellen.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Backend
-"Warning message",Waarschuwingsbericht,module,Magento_Backend
-"This operation can take a long time","Deze bewerking kan lang duren",module,Magento_Backend
 "This payment is not available","Deze betaling is niet beschikbaar",module,Magento_Braintree
 YY,JJ,module,Magento_Braintree
 "Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling.",module,Magento_Braintree
@@ -6147,7 +6141,6 @@ Content,inhoud,module,Magento_Backend
 Elements,Elementen,module,Magento_Backend
 Design,Ontwerp,module,Magento_Backend
 Schedule,Tijdsplanning,module,Magento_Backend
-"Content translation","Vertaling van de inhoud",module,Magento_Backend
 Settings,Instellingen,module,Magento_Backend
 Attributes,Attributen,module,Magento_Backend
 "Other Settings","Andere instellingen",module,Magento_Backend
@@ -6357,7 +6350,6 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
-"Special Price","Speciale prijs",module,Magento_Bundle
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
 Forms,Formulieren,module,Magento_Captcha
