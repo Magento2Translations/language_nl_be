@@ -438,7 +438,7 @@ Authorize,Autoriseer,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Vul een geldige Creditcard Verificatie Nummer in",module,Magento_Braintree
 ending,einde,module,Magento_Braintree
 expires,verloopt,module,Magento_Braintree
-"Are you sure you want to delete this PayPal account","Weet u zeker dat u deze PayPal account wilt verwijderen?",module,Magento_Braintree
+"Are you sure you want to delete this PayPal account","Weet u zeker dat u deze PayPal account wilt verwijderen",module,Magento_Braintree
 "PayPal Account",PayPal-account,module,Magento_Braintree
 Actions,acties,module,Magento_Braintree
 Delete,Verwijder,module,Magento_Braintree
@@ -1568,15 +1568,15 @@ Store,Winkel,module,Magento_Config
 Yes,Ja,module,Magento_Config
 Specified,Gespecificeerd,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Configuratie form fieldset clone model verplicht om velden te kunnen kopieren.",module,Magento_Config
-"%1: Instance of %2 is expected, got %3 instead","%1: Instance van %2 is verwacht, kreeg %3",module,Magento_Config
+"%1: Instance of %2 is expected, got %3 instead","%1: Instance van %2 verwacht, kreeg %3",module,Magento_Config
 "Invalid XML in file %1:\n%2","Ongeldige XML in bestand %1:\n%2",module,Magento_Config
 "'There is no defined type ' .","'Er is geen gedefinieerd type'.",module,Magento_Config
 "'Object is not instance of ' .","'Object is geen exemplaar van'.",module,Magento_Config
 "Filesystem is not writable.","Bestandssysteem is niet beschrijfbaar.",module,Magento_Config
-"Some error","Een zekere fout",module,Magento_Config
+"Some error","Een fout",module,Magento_Config
 "Some message","Een zeker bericht",module,Magento_Config
 "This command is unavailable right now.","Het commando is op dit moment niet beschikbaar.",module,Magento_Config
-"The ""test/test/test"" path does not exists","Het ""test/test/test""-pad bestaat niet",module,Magento_Config
+"The ""test/test/test"" path does not exists","Het ""test/test/test"" pad bestaat niet",module,Magento_Config
 "error message",foutbericht,module,Magento_Config
 "some prefix","een voorvoegsel",module,Magento_Config
 "element hint","element tip",module,Magento_Config
@@ -1728,7 +1728,7 @@ Monthly,Maandelijks,module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Ongeldige cron expressie, verwacht wordt een numerieke modulus: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Ongeldige cron expressie, verwacht wordt ' van-naar ' structuur: %1",module,Magento_Cron
 "Some error","Een fout",module,Magento_Cron
-"Invalid callback: Not_Existed_Class::execute can't be called","Ongeldige callback: Not_Existed_Class::execute kan worden aangeroepen",module,Magento_Cron
+"Invalid callback: Not_Existed_Class::execute can't be called","Ongeldige callback: Not_Existed_Class::execute kan niet worden aangeroepen",module,Magento_Cron
 "Test exception","Text exception",module,Magento_Cron
 "Save Currency Rates","Wisselkoersen opslaan",module,Magento_CurrencySymbol
 Options,Opties,module,Magento_CurrencySymbol
@@ -1878,7 +1878,7 @@ Download,Downloads,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Als u een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om uw factuuradres in te voeren voor een juiste BTW-berekening.",module,Magento_Customer
 "Account Information","Account Gegevens",module,Magento_Customer
 "You saved the account information.","U heeft de accountgegevens opgeslagen.",module,Magento_Customer
-"You did not sign in correctly or your account is temporarily disabled.","Inloggegevens zijn onjuist of uw account is tijdelijk uitgeschakeld.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","U bent niet correct ingelogd of uw account is tijdelijk uitgeschakeld.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Wachtwoord-bevestiging komt niet overeen met ingegeven wachtwoord.",module,Magento_Customer
 "The password doesn't match this account.","Het wachtwoord komt niet overeen met dit account.",module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
@@ -1901,7 +1901,7 @@ Download,Downloads,module,Magento_Customer
 "Please correct the quote items and try again.","Corrigeer de genoemde onderdelen en probeer het opnieuw.",module,Magento_Customer
 "You have revoked the customer's tokens.","U hebt de klanten toegang ingetrokken voor de huidige sleutels.",module,Magento_Customer
 "We can't find a customer to revoke.","We kunnen geen klant vinden om in te trekken.",module,Magento_Customer
-"Something went wrong while saving file.","Er ging iets mis bij het opslaan van de bestanden.",module,Magento_Customer
+"Something went wrong while saving file.","Er ging iets mis bij het opslaan van het bestand.",module,Magento_Customer
 "You deleted the customer group.","U heeft de klantgroep verwijderd.",module,Magento_Customer
 "The customer group no longer exists.","De klantgroep bestaat niet langer.",module,Magento_Customer
 Customers,Klanten,module,Magento_Customer
@@ -5805,7 +5805,7 @@ Delete,Verwijder,module,Magento_GiftMessage
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",module,Magento_Sales
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons contacteren per e-mail op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openingstijden zijn <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
@@ -6443,7 +6443,7 @@ Main,Hoofd,module,Magento_Catalog
 "Mask for Meta Description","Masker voor metabeschrijving",module,Magento_Catalog
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Gebruik {{name}} en {{description}} als aanduidingen voor productnaam en productbeschrijving",module,Magento_Catalog
 "Recently Viewed/Compared Products","Recent bekeken/vergeleken producten",module,Magento_Catalog
-"Lifetime of products in Recently Viewed Widget","Levensduur van de producten in de Recentelijk Bekeken widget",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Levensduur van producten in onlangs bekeken widget",module,Magento_Catalog
 "Lifetime of products in Recently Compared Widget","Levensduur van producten in de Recentelijk Vergeleken Widget",module,Magento_Catalog
 "Synchronize widget products with backend storage","Synchroniseer widget producten met backend-opslag",module,Magento_Catalog
 Storefront,Winkeletalage,module,Magento_Catalog
@@ -6523,7 +6523,6 @@ Comma-separated.,"gescheiden door een komma",module,Magento_Catalog
 "Category Link Inline Template","Categorieën-link inline-sjabloon",module,Magento_Catalog
 "Recently Viewed Products","Recent bekeken producten",module,Magento_Catalog
 "List of Products Recently Viewed by Visitor","Overzicht van producten die recentelijk door bezoekers bekeken zijn",module,Magento_Catalog
-"UI Component",UI-Component,module,Magento_Catalog
 "Number of Products to display","Aantal producten om te tonen",module,Magento_Catalog
 "Product attributes to show","Product attributen om te tonen",module,Magento_Catalog
 Image,Afbeelding,module,Magento_Catalog
@@ -6587,8 +6586,8 @@ Overview,Overzicht,module,Magento_Catalog
 "Skip to the beginning of the images gallery","Ga naar het begin van de afbeeldingen-gallerij",module,Magento_Catalog
 Details,Gegevens,module,Magento_Catalog
 "Recently Compared","Recentelijk vergelijken",module,Magento_Catalog
-"Add To Cart","In winkelwagen",module,Magento_Catalog
-"Add To Compare","Aan productvergelijking toevoegen",module,Magento_Catalog
+"Add To Cart","Voeg toe aan winkelwagen",module,Magento_Catalog
+"Add To Compare","Toevoegen om te vergelijken",module,Magento_Catalog
 "Learn more","Meer informatie",module,Magento_Catalog
 "Recently Viewed","Recent bekeken",module,Magento_Catalog
 "Terms & Conditions","Algemene voorwaarden",module,Magento_CheckoutAgreements
@@ -6774,7 +6773,7 @@ Currency,Valuta,module,Magento_CurrencySymbol
 "Enable Autocomplete on login/forgot password forms","Inschakelen automatisch aanvullen op login en wachtwoord vergeten formulieren",module,Magento_Customer
 "Account Information Options","Opties Account Informatie",module,Magento_Customer
 "Change Email Template","Wijzig E-mail sjabloon",module,Magento_Customer
-"Change Email and Password Template","Wijziging e-mailadres en wachtwoord sjabloon",module,Magento_Customer
+"Change Email and Password Template","Wijzig E-mail en Wachtwoord Sjabloon",module,Magento_Customer
 "Name and Address Options","Naam- en adresopties",module,Magento_Customer
 "Number of Lines in a Street Address","Aantal regels in adres",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Laat leeg voor standaard (2). Geldige opties: 1-4",module,Magento_Customer
